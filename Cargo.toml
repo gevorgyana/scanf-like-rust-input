@@ -1,0 +1,11 @@
+[package]
+name = "concise-scanf-like-input"
+version = "0.1.1"
+authors = ["Artyom Gevorgyan <artemhevorhian@gmail.com>"]
+edition = "2018"
+description = "This is a macro-based implementation of scanf-like reading API that can be used to read from standard input when solving problems in competitve programming"
+license = "Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
